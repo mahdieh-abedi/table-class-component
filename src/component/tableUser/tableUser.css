@@ -1,0 +1,24 @@
+.Page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+table {
+    width: 100%;
+    display: block;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead {
+    background-color: #b7c4f5;
+    margin-right:10px;
+}
+
+td, th {
+    padding: 25px;
+}
+.AddBtn{
+    width: 80%;
+}
